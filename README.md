@@ -1,0 +1,5 @@
+# Retail-Order-Management-System-Java-
+A java application which provide the ordering service for the retail shops to manage the customer orders. There will be 2 type of users for the system which are the administrator of the system and the customer. The admin is required to manage the customer with  the customer details in the system. The admin can also manage product and order from the customer in the proposed system according to the entities in the retail management system made. From the other side, the customers can add new order by selecting the product that viewed in the proposed system. They can view, delete, update and search the order they made in the system so that they can order the correct product from the system. The system is implemented with all the knowledge and ideas of the Object-Oriented Development in Java on build up the retail management system Object-oriented programming is used instead of doing direct coding in the GUI so that the coding built can be identify more easily through classes.
+- The concept of object-oriented development is applied in this application
+- Text file is used as database
+- Complier: Java Netbeans 6
